@@ -40,15 +40,6 @@ spring.jpa.show-sql=true
  Build and Run the Project
 
 
-use this in postman tool 
 
-example :  Add Employee (POST)
-URL: http://localhost:8080/employees
-Body (JSON):
-{
-  "name": "John",
-  "email": "john@example.com",
-  "department": "IT"
-}
 
 
